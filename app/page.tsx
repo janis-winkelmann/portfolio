@@ -20,6 +20,7 @@ export default function Page() {
       name: "Gym App",
       tech: "Next.js",
       imageSrc: "/images/gym.png",
+      link: "https://github.com/janis-winkelmann/gym-app"
     },
   ];
 
