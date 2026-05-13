@@ -11,6 +11,16 @@ export default function Page() {
       imageSrc: "/images/opik.png",
       link: "https://opik.design",
     },
+    {
+      name: "Connect App",
+      tech: "Next.js, Python",
+      imageSrc: "/images/connect.png",
+    },
+    {
+      name: "Gym App",
+      tech: "Next.js",
+      imageSrc: "/images/gym.png",
+    },
   ];
 
   return (
