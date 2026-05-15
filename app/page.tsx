@@ -28,6 +28,12 @@ export default function Page() {
       imageSrc: "/images/securenotes.png",
       link: "https://github.com/janis-winkelmann/securenotes"
     },
+    {
+      name: "Am I Termed",
+      tech: "Next.js, Python",
+      imageSrc: "/images/amitermed.png",
+      link: "https://github.com/janis-winkelmann/amitermed"
+    },
   ];
 
   return (
