@@ -6,21 +6,26 @@ import { Footer } from "@/components/Footer";
 export default function Page() {
   const projects = [
     {
-      name: "Opik Studio",
+      name: "Opik Design Studio",
       tech: "Next.js",
       imageSrc: "/images/opik.png",
       link: "https://opik.design",
     },
     {
-      name: "Connect App",
+      name: "Connect Bank App",
       tech: "Next.js, Python",
       imageSrc: "/images/connect.png",
     },
     {
-      name: "Gym App",
+      name: "Gym Tracking App",
       tech: "Next.js",
       imageSrc: "/images/gym.png",
       link: "https://github.com/janis-winkelmann/gym-app"
+    },
+    {
+      name: "Traced Analytics",
+      tech: "Next.js, Go",
+      imageSrc: "/images/traced.png",
     },
     {
       name: "Secure Notes",
