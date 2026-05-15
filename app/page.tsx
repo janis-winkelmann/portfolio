@@ -25,7 +25,7 @@ export default function Page() {
     {
       name: "Traced Analytics",
       tech: "Next.js, Go",
-      imageSrc: "/images/traced.png",
+      imageSrc: "/images/tracedanalytics.png",
     },
     {
       name: "Secure Notes",
