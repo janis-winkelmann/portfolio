@@ -22,6 +22,12 @@ export default function Page() {
       imageSrc: "/images/gym.png",
       link: "https://github.com/janis-winkelmann/gym-app"
     },
+    {
+      name: "Secure Notes",
+      tech: "Next.js",
+      imageSrc: "/images/securenotes.png",
+      link: "https://github.com/janis-winkelmann/securenotes"
+    },
   ];
 
   return (
