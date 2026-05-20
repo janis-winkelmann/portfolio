@@ -39,6 +39,12 @@ export default function Page() {
       imageSrc: "/images/amitermed.png",
       link: "https://github.com/janis-winkelmann/amitermed"
     },
+    {
+      name: "Breathing app",
+      tech: "Next.js, Supabase",
+      imageSrc: "/images/openbreath.png",
+      link: "https://github.com/janis-winkelmann/openbreath"
+    },
   ];
 
   return (
