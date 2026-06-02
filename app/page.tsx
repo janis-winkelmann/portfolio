@@ -8,8 +8,7 @@ export default function Page() {
     {
       name: "Opik Design Studio",
       tech: "Next.js",
-      imageSrc: "/images/opik.png",
-      link: "https://opik.design",
+      imageSrc: "/images/opik.png", 
     },
     {
       name: "Connect Bank App",
